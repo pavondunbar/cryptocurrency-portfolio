@@ -4,7 +4,7 @@ This script takes your crypto data stored in a text file and gives you a timesta
 
 How to use:
 
-1) Create a txt file and name it portfolio.txt.
+1) Create a txt file in Notepad and name it portfolio.txt.
 2) Type in the crypto ticker symbol followed by a space and the number of coins you own for each one.
           EX: btc 3.876
               ltc 6.432
