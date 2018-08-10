@@ -26,7 +26,9 @@ for currency in data:
     ticker_url_pairs[symbol] = url
 
 print()
-print('MY PORTFOLIO')
+name = input('What is your name:  ')
+print('\n')
+print('Thank you, ' + name + '.  Here is your updated crptocurrency portfolio.')
 print()
 
 portfolio_value = 0.00
